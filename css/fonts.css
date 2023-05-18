@@ -1,0 +1,87 @@
+/* Panton */
+@font-face {
+	font-family: 'Panton';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Panton'), url('https://discord-2yue.onrender.com/css/fonts/Panton-BlackitalicCaps.html') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Panton';
+	font-style: normal;
+	font-weight: 290;
+	src: local('Panton'), url('https://discord-2yue.onrender.com/css/fonts/Panton-LightCaps.html') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Panton';
+	font-style: italic;
+	font-weight: 300;
+	src: local('Panton'), url('https://discord-2yue.onrender.com/css/fonts/Panton-LightitalicCaps.html') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Panton';
+	font-style: normal;
+	font-weight: 390;
+	src: local('Panton'), url('https://discord-2yue.onrender.com/css/fonts/Panton-BlackCaps.html') format('woff');
+	font-display: swap;
+}
+
+/* Minecraft */
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('https://discord-2yue.onrender.com/fonts/Minecraft-Italic.html') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('https://discord-2yue.onrender.com/fonts/Minecraft-Bold.html') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('https://discord-2yue.onrender.com/fonts/Minecraft-Regular.html') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('https://discord-2yue.onrender.com/fonts/Minecraft-BoldItalic.html') format('woff2');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+/* Dripy Halloween */
+@font-face {
+	font-family: 'Halloween-Dripy';
+	src: url('https://discord-2yue.onrender.com/fonts/Dripy-Halloween.html') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Cursive Halloween */
+@font-face {
+	font-family: 'Halloween-Cursive';
+	src: url('https://discord-2yue.onrender.com/fonts/Cursive-Halloween.html') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+/* Cursive Christmas */
+@font-face {
+	font-family: 'Christmas-Cursive';
+	src: url('https://discord-2yue.onrender.com/fonts/Cursive-Christmas.html') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
